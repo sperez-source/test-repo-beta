@@ -1,17 +1,38 @@
-# Test Repo Beta
+# Hello World
+
+This repository demonstrates a simple Hello World program.
 
 ## Overview
 
-This repository is for testing purposes on the feature-branch.
+Updated on feature-branch with Hello World code examples.
 
-## Features
+## Hello World Examples
 
-- New content added
-- Updated documentation
+### Python
+
+```python
+print("Hello, World!")
+```
+
+### JavaScript
+
+```javascript
+console.log("Hello, World!");
+```
+
+### Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
 
 ## Usage
 
-Clone the repo and explore the features.
+Run the examples in your preferred language.
 
 ## License
 
